@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é uma aplicação web desenvolvida seguindo o tutorial do site do Angular.[Clique aqui](https://angular.io/tutorial) para acessar o tutorial
+O projeto é uma aplicação web desenvolvida seguindo o tutorial do site do Angular.[Clique aqui](https://angular.io/tutorial) para acessar o tutorial.
 
 ## 🚀 Como executar
 
@@ -16,11 +16,11 @@ O projeto é uma aplicação web desenvolvida seguindo o tutorial do site do Ang
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn start`
 
-Agora você pode acessar [`localhost:4200`](http://localhost:4200) do seu navegador
+Agora você pode acessar [`localhost:4200`](http://localhost:4200) do seu navegador.
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
